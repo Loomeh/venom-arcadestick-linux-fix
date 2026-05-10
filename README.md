@@ -1,10 +1,13 @@
 # Venom Arcade Stick Linux Fix
 Fixes the button binding errors of the Venom Arcade Stick (PS4) on Linux/Steam Deck
 
->[!NOTE]
+>[!IMPORTANT]
 >As of now, this only fixes the binding on the PS4 mode. NOT the PS3 mode.
 
->[!WARNING]
+>[!IMPORTANT]
+>Whilst this fix should work across the entire operating system, using **Steam Input** is very recommended.
+
+>[!CAUTION]
 >This is currently **experimental** and should not be used for any tournament setups just yet as it has not been properly tested.
 
 ## Requirements
