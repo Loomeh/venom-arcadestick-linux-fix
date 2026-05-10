@@ -4,6 +4,9 @@ Fixes the button binding errors of the Venom Arcade Stick (PS4) on Linux/Steam D
 >[!NOTE]
 >As of now, this only fixes the binding on the PS4 mode. NOT the PS3 mode.
 
+>[!WARNING]
+>This is currently **experimental** and should not be used for any tournament setups just yet as it has not been properly tested.
+
 ## Requirements
 - A distro running systemd (if you don't know what that is then you're probably good)
 - Root permissions (sudo/doas)
