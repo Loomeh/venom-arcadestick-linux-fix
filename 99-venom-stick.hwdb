@@ -1,5 +1,5 @@
 # Venom Arcade Stick (PS4 Mode)
-evdev:input:b0003v0079p181B
+evdev:input:b0003v0079p181*
  KEYBOARD_KEY_90001=btn_west
  KEYBOARD_KEY_90004=btn_north
  KEYBOARD_KEY_90006=btn_tr
